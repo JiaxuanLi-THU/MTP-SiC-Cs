@@ -11,7 +11,7 @@ This repository contains a fitted moment tensor potential (SiCCs.mtp) developed 
    pair_style mlip mlip.ini  
 pair_coeff * *  
 Detailed useage tutorial of MTP can be found at https://gitlab.com/ashapeev/mlip-2-tutorials
-3. Please define the atomic id of elements in the structural file in the following order: 1-C; 2-Si; 3-Cs
+3. Please define the element types in the structural file in the following order: 1-C; 2-Si; 3-Cs
 
 ## Citation
 If you utilize the potential in this repository, please cite: 
