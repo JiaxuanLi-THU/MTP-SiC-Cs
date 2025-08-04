@@ -1,5 +1,5 @@
 # MTP-SiC-Cs
-This repository contains a fitted moment tensor potential (MTP) developed for the amorphous SiC-Cs system. The potential enables accurate and efficient atomic simulations to study Cs diffusion in amorphous SiC.
+This repository contains a fitted moment tensor potential (SiCCs.mtp) developed for the amorphous SiC-Cs system. The potential enables accurate and efficient atomic simulations to study Cs diffusion in amorphous SiC.
 
 ## Use guide
 ### Software requirements
