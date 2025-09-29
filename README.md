@@ -7,7 +7,7 @@ This repository contains fitted moment tensor potentials developed for the amorp
 2. MLIP-2 package https://gitlab.com/ashapeev/mlip-2
 3. MLIP-3 package https://gitlab.com/ashapeev/mlip-3
 ### Use of the developed MTP
-There are three fitted MTPs in the Potentials folder: aSiC.mtp, HEGB_L10.almtp, HEGB_L16.almtp <br>
+There are three fitted MTPs in the Potential folder: aSiC.mtp, HEGB_L10.almtp, HEGB_L16.almtp <br>
 * aSiC.mtp: level 16 MTP, specialized for amorphous SiC-Cs system <br>
 * HEGB_L10.almtp: level 10 MTP, faster, specialized for polycrystalline SiC-Cs system <br>
 * HEGB_L16.almtp: level 16 MTP, more accurate, specialized for polycrystalline SiC-Cs system <br>
