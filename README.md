@@ -1,13 +1,13 @@
 # MTP-SiC-Cs
-This repository contains fitted moment tensor potentials developed for the amorphous SiC-Cs system and polycrystalline SiC-Cs system. The potentials enable accurate and efficient atomic simulations to study Cs diffusion in amorphous SiC and polycrystalline SiC with high energy grain boundaries.
+This repository contains trained moment tensor potentials (MTPs) developed for the amorphous SiC-Cs system and polycrystalline SiC-Cs system. The potentials enable accurate and efficient atomic simulations to study Cs diffusion in amorphous SiC and polycrystalline SiC with high energy grain boundaries (HEGBs).
 
 ## Use guide
 ### Software requirements
 1. LAMMPS https://github.com/lammps/lammps.git
 2. MLIP-2 package https://gitlab.com/ashapeev/mlip-2
 3. MLIP-3 package https://gitlab.com/ashapeev/mlip-3
-### Use of the developed MTP
-There are three fitted MTPs in the Potential folder: aSiC.mtp, HEGB_L10.almtp, HEGB_L16.almtp <br>
+### Use of the trained MTP
+There are three trained MTPs in the Potential folder: aSiC.mtp, HEGB_L10.almtp, HEGB_L16.almtp <br>
 * aSiC.mtp: level 16 MTP, specialized for amorphous SiC-Cs system <br>
 * HEGB_L10.almtp: level 10 MTP, faster, specialized for polycrystalline SiC-Cs system <br>
 * HEGB_L16.almtp: level 16 MTP, more accurate, specialized for polycrystalline SiC-Cs system <br>
